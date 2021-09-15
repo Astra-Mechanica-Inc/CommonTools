@@ -1,6 +1,6 @@
 # Starbase - CommonTools
 
-Repository build to organize all common tools built to help in gameplay for company members.
+Repository used to organize all common tools built to help in gameplay for company members.
 
 ## External Links
 
