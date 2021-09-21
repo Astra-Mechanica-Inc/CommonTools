@@ -14,6 +14,7 @@ This repository is used to organize all common tools we know and/or built, in or
 - Starbase Codes's Ship Calc by PoLLI#4969: https://starbase.codes/ship_calc
 - Starmap by the Collective (https://wiki.starbasegame.com/index.php/Collective): https://isan.to/
 - Starbase Ore Watcher by Septic#0346: https://docs.google.com/spreadsheets/d/14VROiioAfI-09XdhLWKMwUgc12ZUJZTKkObOKVyF9qY/edit#gid=1070497310
+- Starbase Nexus community project: https://starbase-nexus.net/
 
 ----------------------------------------------------------
 
