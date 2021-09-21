@@ -1,6 +1,6 @@
 # Starbase - CommonTools
 
-Repository used to organize all common tools known and/or built, in order to help in gameplay for company members and others.
+This repository is used to organize all common tools we know and/or built, in order to help in gameplay for company members and others. Each content listed here is owned by it's respective creator, the list simply aims to provide easy links and simple descriptions to the tools listed.
 
 ## External Links
 
