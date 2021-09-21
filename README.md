@@ -12,8 +12,4 @@ Repository used to organize all common tools known and/or built to help in gamep
 
 ## Notice
 
-Copyright (C) Astra Mechanica Inc. - All Rights Reserved.
-
-Unauthorized copying of this file via any medium is strictly prohibited. Proprietary and confidential.
-
-Written by Guilherme Sant'Clair <gui.sant.93@gmail.com>, September 2021.
+Copyright (C) Astra Mechanica Inc. - All Rights Reserved to the Respective Content Creators.
